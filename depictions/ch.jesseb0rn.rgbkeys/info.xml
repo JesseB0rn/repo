@@ -13,12 +13,15 @@
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
+	<shortDescription>Engage RGB on your Stock iOS and ipadOS Keyboard. World's first tweak of its kind since iOS 9, developed by junior dev Jesse Born!</shortDescription>
 	<descriptionlist>
-		<description>Engage RGB on your Stock iOS and ipadOS Keyboard. World's first tweak of its kind since iOS 9, developed by junior dev Jesse Born!</description>
+		<description>This is an package will full depictions.</description>
+		<description>It has more description lines.</description>
+		<description></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Supports iOS & iPadOS!</description>
+			<description>Supports iOS and iPadOS!</description>
 			<image>ad1.jpg</image>
 		</screenshot>
 	</screenshots>

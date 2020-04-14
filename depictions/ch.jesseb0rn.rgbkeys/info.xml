@@ -20,10 +20,7 @@
 		<description></description>
 	</descriptionlist>
 	<screenshots>
-		<screenshot>
-			<description>Supports iOS and iPadOS!</description>
-			<image>ad1.jpg</image>
-		</screenshot>
+		
 	</screenshots>
 	<changelog>
 		<change>Initial release</change>

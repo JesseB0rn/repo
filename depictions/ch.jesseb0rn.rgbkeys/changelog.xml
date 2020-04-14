@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
 		<version>1.2.5</version>
-		<change>Initial release</change>
+		<change>Initial release, added iphone support, removed prefrences, added donation button</change>
 	</changes>
 </changelog>

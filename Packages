@@ -1,0 +1,13 @@
+Package: ch.jesseb0rn.rgbkeys
+Version: 1.2.5
+Section: Tweaks
+Maintainer: jesseb0rn <jesse.born@gmx.ch>
+Depends: frimware (>13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/ch.jesseb0rn.rgbkeys.deb
+Size: 15108
+MD5sum: 9EB9FC523C248A1C5266F582147139AF
+Description: RGB engaged for your Ios and Ipados Keyboard!
+Name: rgbKeys
+Author: jesseb0rn <jesse.born@gmx.ch>
+Depiction: https://jesseb0rn.github.io/repo/depictions/?p=com.supermamon.newpackage

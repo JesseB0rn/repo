@@ -1,12 +1,12 @@
 <package>
 	<id>ch.jesseb0rn.rgbkeys</id>
 	<name>rgbKeys</name>
-	<version>2.0.0</version>
+	<version>2.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
 			<maxiOS>13.4.1</maxiOS>
-			<otherVersions>unsupported</otherVersions>
+			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->

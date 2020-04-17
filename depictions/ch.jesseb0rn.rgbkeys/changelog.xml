@@ -7,4 +7,8 @@
 		<version>2.0.0</version>
 		<change>Added prefrence bundle again, this time working. Added test field to prefrences. Added shortend donation link.</change>
 	</changes>
+	<changes>
+		<version>2.0.1</version>
+		<change>Fixed sb crash issue. Removed IPad/Iphone auto detection feature.</change>
+	</changes>
 </changelog>

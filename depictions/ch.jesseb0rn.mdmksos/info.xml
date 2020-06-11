@@ -1,0 +1,31 @@
+<package>
+	<id>ch.jesseb0rn.mdmksos</id>
+	<name>mdm KSOS</name>
+	<version>0.0.1b1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>13.4.1</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<shortDescription>MDM Bypass for KSOS by jesseb0rn. (internal use only)</shortDescription>
+	<descriptionlist>
+		<description>MDM Bypass for KSOS by jesseb0rn. (internal use only)</description>
+		<description> - Works on iOS and iPadOS 13!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Looks amazing!</description>
+			<image>screenshot.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>importet</change>
+	</changelog>
+	<links></links>
+</package>

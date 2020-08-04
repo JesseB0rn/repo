@@ -1,0 +1,25 @@
+<package>
+	<id>ch.jesseb0rn.rgbkeys</id>
+	<name>rgbKeys</name>
+	<version>2.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>13.6</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<shortDescription>Make your status bar battery go brrr in rgb.</shortDescription>
+	<descriptionlist>
+		<description>>Make your status bar battery go brrr in rgb while the device is plugged in, as requested on reddit by u/bresten. No config.</description>
+		<description> - Works on iOS and iPadOS 13!</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

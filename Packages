@@ -1,13 +1,42 @@
 Package: ch.jesseb0rn.rgbkeys
-Version: 1.2.5
+Version: 2.0.0
 Section: Tweaks
 Maintainer: jesseb0rn <jesse.born@gmx.ch>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/ch.jesseb0rn.rgbkeys.deb
-Size: 15108
-MD5sum: 9eb9fc523c248a1c5266f582147139af
+Size: 16978
+MD5sum: 0c2f191ddda1e71a9518effb7a11c42b
 Description: RGB engaged for your Ios and Ipados Keyboard!
 Name: rgbKeys
 Author: jesseb0rn <jesse.born@gmx.ch>
 Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.rgbkeys
+
+
+Package: ch.jesseb0rn.mdmksos
+Version: 0.0.1b1
+Section: Tweaks
+Maintainer: jesseb0rn <jesse.born@gmx.ch>
+Depends: ws.hbang.newterm2
+Architecture: iphoneos-arm
+Filename: ./debs/ch.jesseb0rn.mdmksos.deb
+Size: 5554
+MD5sum: a655a9f7220651b04af7c3c13a14a8c2
+Description: RGB engaged for your Ios and Ipados Keyboard!
+Name: mdmKSOS
+Author: jesseb0rn <jesse.born@gmx.ch>
+Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.mdmksos
+
+Package: ch.jesseb0rn.rgbattery
+Version: 1.0.1
+Section: Tweaks
+Maintainer: jesseb0rn <jesse.born@gmx.ch>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/ch.jesseb0rn.rgbattery_1.0.1_iphoneos-arm.deb
+Size: 7440
+MD5sum: 9dd32a23795e05b772e6f138457f9f4b
+Description: RGB lighning for your battery icon in the status bar while plugged in.
+Name: rgbattery
+Author: jesseb0rn <jesse.born@gmx.ch>
+Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.rgbattery

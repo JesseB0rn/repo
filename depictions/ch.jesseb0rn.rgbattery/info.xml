@@ -1,10 +1,10 @@
 <package>
-	<id>ch.jesseb0rn.rgbkeys</id>
-	<name>rgbKeys</name>
+	<id>ch.jesseb0rn.rgbbattery</id>
+	<name>rgbattery</name>
 	<version>2.0.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>13.0</miniOS>
+			<miniOS>12.0</miniOS>
 			<maxiOS>13.6</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
@@ -19,7 +19,7 @@
 		<description> - Works on iOS and iPadOS 13!</description>
 	</descriptionlist>
 	<changelog>
-		<change>Initial release</change>
+		<change>Fix support on notched devices</change>
 	</changelog>
 	<links></links>
 </package>

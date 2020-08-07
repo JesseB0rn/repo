@@ -40,3 +40,18 @@ Description: RGB lighning for your battery icon in the status bar while plugged 
 Name: rgbattery
 Author: jesseb0rn <jesse.born@gmx.ch>
 Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.rgbattery
+
+Package: ch.jesseb0rn.rgbattery
+Version: 2.0.1
+Section: Tweaks
+Maintainer: jesseb0rn <jesse.born@gmx.ch>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/ch.jesseb0rn.rgbattery_2.0.1_iphoneos-arm.deb
+Size: 7420 
+MD5sum: 9a89e084e5ef7f9767f95fc0d078cf63
+Description: RGB lighning for your battery icon in the status bar while plugged in.
+Name: rgbattery
+Author: jesseb0rn <jesse.born@gmx.ch>
+Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.rgbattery
+

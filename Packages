@@ -69,7 +69,7 @@ Name: mqtt
 Author: jesseb0rn <jesse.born@gmx.ch>
 Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.mqtt
 
-ackage: ch.jesseb0rn.mqttmodule
+Package: ch.jesseb0rn.mqttmodule
 Version: 1.0.3
 Section: Control Center Modules
 Maintainer: jesseb0rn <jesse.born@gmx.ch>

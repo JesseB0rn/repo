@@ -55,3 +55,31 @@ Name: rgbattery
 Author: jesseb0rn <jesse.born@gmx.ch>
 Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.rgbattery
 
+Package: ch.jesseb0rn.mqtt
+Version: 1.0.1
+Section: System
+Maintainer: jesseb0rn <jesse.born@gmx.ch>
+Depends: 
+Architecture: iphoneos-arm
+Filename: ./debs/ch.jesseb0rn.mqtt_1.0.1_iphoneos-arm.deb
+Size: 220156
+MD5sum: 3eb6ba77b9d806e5476e584ab0da878f
+Description: MQTT Command line utility
+Name: mqtt
+Author: jesseb0rn <jesse.born@gmx.ch>
+Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.mqtt
+
+ackage: ch.jesseb0rn.mqttmodule
+Version: 1.0.3
+Section: Control Center Modules
+Maintainer: jesseb0rn <jesse.born@gmx.ch>
+Depends: mobilesubstrate, com.opa334.ccsupport, ch.jesseb0rn.mqtt
+Architecture: iphoneos-arm
+Filename: ./debs/ch.jesseb0rn.mqttmodule_1.0.3_iphoneos-arm.deb
+Size: 35474
+MD5sum: 70db066ee4feff8b675031c0b6d39530
+Description: MQTT ControlCenter Module
+Name: mqttmodule
+Author: jesseb0rn <jesse.born@gmx.ch>
+Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.mqttmodule
+

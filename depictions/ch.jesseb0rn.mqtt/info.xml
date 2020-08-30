@@ -1,0 +1,26 @@
+<package>
+	<id>ch.jesseb0rn.mdmksos</id>
+	<name>mdm KSOS</name>
+	<version>0.0.1b1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>13.7</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<shortDescription>MQTT Libary for iOS</shortDescription>
+	<descriptionlist>
+		<description>MQTT Libary for iOS</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>initial release</change>
+	</changelog>
+	<links></links>
+</package>

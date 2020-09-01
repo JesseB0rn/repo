@@ -1,0 +1,26 @@
+<package>
+	<id>ch.jesseb0rn.mdmksos</id>
+	<name>mdm KSOS</name>
+	<version>0.0.1b1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>13.7</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<shortDescription>lat. 'right'</shortDescription>
+	<descriptionlist>
+		<description>Moves banners to the right underneath the control center. iPad only. This is a open source project, please confirm your device and your version via dm to me: u/jesseb0rn</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>initial release</change>
+	</changelog>
+	<links></links>
+</package>

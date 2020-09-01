@@ -83,3 +83,16 @@ Name: mqttmodule
 Author: jesseb0rn <jesse.born@gmx.ch>
 Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.mqttmodule
 
+Package: ch.jesseb0rn.iustum
+Version: 1.0.1
+Section: Tweaks (iPad)
+Maintainer: jesseb0rn <jesse.born@gmx.ch>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/ch.jesseb0rn.iustum_1.0.1_iphoneos-arm.deb
+Size: 5350
+MD5sum: 002c876f17d46467f2cccca115ac8eef
+Description: lat. right
+Name: iustum
+Author: jesseb0rn <jesse.born@gmx.ch>
+Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.iustum

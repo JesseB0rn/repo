@@ -1,6 +1,21 @@
 <repo>
 	<footerlinks>
 		<link>
+			<name>GitHub</name>
+			<url>https://github.com/jesseb0rn</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+		<link>
+			<name>Reddit</name>
+			<url>https://reddit.com/u/jesseb0rn</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>Instagram</name>
+			<url>https://instagram.com/jesse.b0rn_</url>
+			<iconclass>fa fa-instagram</iconclass>
+		</link>
+		<link>
 			<name>Donate PayPal</name>
 			<url>https://paypal.me/born1973</url>
 			<iconclass>fa fa-paypal</iconclass>

@@ -1,0 +1,36 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#EB7D34",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Depiction",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "iustum"
+        },
+		{
+		 "class": "DepictionSubheaderView",
+		 "title": "iPad-os Banners as they should be."
+		},
+		{
+		  "class": "DepictionLabelView",
+		  "text" : "No preferences, no options to configure. Ipad only."
+		},
+		{
+		  "class": "DepictionSeparatorView",
+		  "spacing": 25
+		},
+		{
+		  "class": "DepictionReviewView",
+		  "title": "mazing tweak btw",
+		  "author": "XxUnholyPvPxX",
+		  "markdown":"Is it possible to make the padding move the notification under the status bar? Amazing tweak btw",
+		  "rating": 4
+        
+      ]
+    }
+  ]
+}

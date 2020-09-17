@@ -21,25 +21,12 @@ Depends: ws.hbang.newterm2
 Architecture: iphoneos-arm
 Filename: ./debs/ch.jesseb0rn.mdmksos.deb
 Size: 5554
+
 SHA256sum: 9c336d8a2f002d9ec4a81f6c26e9a8893308dc5e3c49f8edb62050758912249d
 Description: RGB engaged for your Ios and Ipados Keyboard!
 Name: mdmKSOS
 Author: jesseb0rn <jesse.born@gmx.ch>
 Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.mdmksos
-
-Package: ch.jesseb0rn.rgbattery
-Version: 1.0.1
-Section: Tweaks
-Maintainer: jesseb0rn <jesse.born@gmx.ch>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/ch.jesseb0rn.rgbattery_1.0.1_iphoneos-arm.deb
-Size: 7440
-SHA256sum: 402c4a7bcf77ef02a324312e27923d62c4e309b591da4ab3e7d5566e73095680
-Description: RGB lighning for your battery icon in the status bar while plugged in.
-Name: rgbattery
-Author: jesseb0rn <jesse.born@gmx.ch>
-Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.rgbattery
 
 Package: ch.jesseb0rn.rgbattery
 Version: 2.0.1
@@ -48,7 +35,8 @@ Maintainer: jesseb0rn <jesse.born@gmx.ch>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/ch.jesseb0rn.rgbattery_2.0.1_iphoneos-arm.deb
-Size: 7420 
+Size: 7420
+MD5sum: 0c2f191ddda1e71a9518effb7a11c42b
 SHA256sum: eeb58f7e06a95d36a6c96ab7c592b44babae0741065303c2e3b85bcb77799e91
 Description: RGB lighning for your battery icon in the status bar while plugged in.
 Name: rgbattery
@@ -63,6 +51,7 @@ Depends:
 Architecture: iphoneos-arm
 Filename: ./debs/ch.jesseb0rn.mqtt_1.0.1_iphoneos-arm.deb
 Size: 220156
+MD5sum: 3eb6ba77b9d806e5476e584ab0da878f
 SHA256sum: b97944bd7d4127821c738cbfb662c877053075da9a1a65ef4c33ccd31cf634e9
 Description: MQTT Command line utility
 Name: mqtt
@@ -77,6 +66,7 @@ Depends: mobilesubstrate, com.opa334.ccsupport, ch.jesseb0rn.mqtt
 Architecture: iphoneos-arm
 Filename: ./debs/ch.jesseb0rn.mqttmodule_1.0.3_iphoneos-arm.deb
 Size: 35474
+MD5sum: 70db066ee4feff8b675031c0b6d39530
 SHA256sum: 0199990357384065d5b7388758beee0e179277bc19be2e3d6f2d9dc9c06ad1b7
 Description: MQTT ControlCenter Module
 Name: mqttmodule
@@ -91,6 +81,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/ch.jesseb0rn.iustum_1.0.1_iphoneos-arm.deb
 Size: 5350
+MD5sum: 002c876f17d46467f2cccca115ac8eef
 SHA256sum: 6bf88be8aa9cce5b8b9b5ecdc100c3eaa08c7f1ad9154958dd570ac5b5af1ca8
 Description: lat. right
 Name: iustum

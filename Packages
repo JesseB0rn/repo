@@ -95,3 +95,20 @@ Size: 5350
 MD5sum: 002c876f17d46467f2cccca115ac8eef
 SHA1sum: 960734cf88ea8c374aa0845f6667b717ce3ca980
 SHA256sum: 6bf88be8aa9cce5b8b9b5ecdc100c3eaa08c7f1ad9154958dd570ac5b5af1ca8
+
+
+Package: ch.jesseb0rn.sz
+Name: superZOOM
+Version: 1.0.2
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: set maximum zoom factor to 20x.
+Maintainer: jesseb0rn <jesse.born@gmx.ch>
+Filename: ./debs/ch.jesseb0rn.sz_1.0.2_iphoneos-arm.deb
+Depends: firmware (>= 11.0.0)
+Author: jesseb0rn <jesse.born@gmx.ch>
+Depiction: https://jesseb0rn.github.io/repo/depictions/?p=ch.jesseb0rn.sz
+Size: 2776
+MD5sum: 5535962ba43d6e9df5f33ca9a3dce511
+SHA1sum: 14ef0c37ee821da24da07473d19f08d7cd8835dc
+SHA256sum: afadd56cfc46b5c52aaaa32582e5b3ce86629003bc6653758ad28fa01cb84a4c

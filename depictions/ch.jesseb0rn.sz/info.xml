@@ -1,0 +1,26 @@
+<package>
+	<id>ch.jesseb0rn.sz</id>
+	<name>superZOOM</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>14.3</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<shortDescription>enables 20x zoom</shortDescription>
+	<descriptionlist>
+		<description>20x zoom on all ios devices!</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>initial release</change>
+	</changelog>
+	<links></links>
+</package>
